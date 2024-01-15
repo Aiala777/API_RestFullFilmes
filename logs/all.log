@@ -1,0 +1,145 @@
+2024-01-06 11:02:35:235 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:27:40:2740 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:35:51:3551 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:36:15:3615 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:37:40:3740 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:45:11:4511 - [32minfo[39m - [32mConectou no DB[39m 
+2024-01-08 09:45:11:4511 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:45:27:4527 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 09:45:27:4527 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:45:50:4550 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 09:45:50:4550 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 09:45:55:4555 - [35mhttp[39m - [35mGET /api/test 200 11 - 5.620 ms[39m
+[35m[39m 
+2024-01-08 12:00:04:04 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 12:00:04:04 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 12:02:23:223 - [35mhttp[39m - [35mPOST /api//movie 200 22 - 3.278 ms[39m
+[35m[39m 
+2024-01-08 12:15:56:1556 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 12:15:56:1556 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 12:17:32:1732 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 12:17:32:1732 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 12:17:35:1735 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 12:17:35:1735 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 12:18:37:1837 - [35mhttp[39m - [35mGET /api/test 200 11 - 3.510 ms[39m
+[35m[39m 
+2024-01-08 12:20:05:205 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-08 12:20:05:205 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-08 12:27:17:2717 - [35mhttp[39m - [35mPOST /api//movie 201 164 - 62.307 ms[39m
+[35m[39m 
+2024-01-09 10:52:16:5216 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 10:52:16:5216 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 10:52:58:5258 - [35mhttp[39m - [35mPOST /api//movie 201 167 - 73.285 ms[39m
+[35m[39m 
+2024-01-09 11:54:05:545 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 11:54:05:545 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:03:23:323 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:03:23:323 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:03:36:336 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:03:36:336 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:03:42:342 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:03:42:342 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:04:12:412 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:04:17:417 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:05:09:59 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:05:09:59 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:05:23:523 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:07:19:719 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:07:19:719 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:07:34:734 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:08:40:840 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:08:40:840 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:09:53:953 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:11:39:1139 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:11:39:1139 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:12:20:1220 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:12:30:1230 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:16:41:1641 - [35mhttp[39m - [35mPOST /api//movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:16:56:1656 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:17:02:172 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:17:41:1741 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:17:41:1741 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:17:52:1752 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:17:52:1752 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:18:08:188 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:18:08:188 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:19:13:1913 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:19:13:1913 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:19:27:1927 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:19:27:1927 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:19:29:1929 - [35mhttp[39m - [35mPOST /api/movie 201 171 - 60.900 ms[39m
+[35m[39m 
+2024-01-09 12:20:16:2016 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:20:16:2016 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:21:37:2137 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:21:43:2143 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:21:43:2143 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:21:56:2156 - [35mhttp[39m - [35mPOST /api/movie - - - - ms[39m
+[35m[39m 
+2024-01-09 12:23:09:239 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:23:09:239 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:25:55:2555 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:25:55:2555 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:27:15:2715 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:27:15:2715 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:27:27:2727 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:27:27:2727 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:30:07:307 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:30:07:307 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:30:33:3033 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:30:33:3033 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:33:03:333 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:33:03:333 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-09 12:33:36:3336 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-09 12:33:36:3336 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-10 12:58:26:5826 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-10 12:58:26:5826 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-10 13:02:09:29 - [35mhttp[39m - [35mGET /api//movie/659d4fba67d84c25294f3f6c 404 31 - 33.080 ms[39m
+[35m[39m 
+2024-01-10 13:05:19:519 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-10 13:05:19:519 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-10 13:05:29:529 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-10 13:05:29:529 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-10 13:05:33:533 - [35mhttp[39m - [35mGET /api//movie/659d4fba67d84c25294f3f6b 200 167 - 36.851 ms[39m
+[35m[39m 
+2024-01-15 07:41:02:412 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:41:02:412 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:41:41:4141 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:41:41:4141 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:42:34:4234 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:42:34:4234 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:42:54:4254 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:42:54:4254 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:44:36:4436 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:44:36:4436 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:44:39:4439 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:44:39:4439 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:45:14:4514 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:45:14:4514 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 07:46:07:467 - [35mhttp[39m - [35mDELETE /api//movie/659d4fba67d84c25294f3f44 404 31 - 38.748 ms[39m
+[35m[39m 
+2024-01-15 07:47:19:4719 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 07:47:19:4719 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 19:39:34:3934 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 19:39:34:3934 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 19:40:19:4019 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 19:40:19:4019 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 19:41:04:414 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 19:41:04:414 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 19:42:41:4241 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 19:42:41:4241 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 19:43:23:4323 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 19:43:23:4323 - [32minfo[39m - [32mRodando na porta: 3000[39m 
+2024-01-15 19:45:05:455 - [32minfo[39m - [32mConectou no Banco de Dados[39m 
+2024-01-15 19:45:05:455 - [32minfo[39m - [32mRodando na porta: 3000[39m 
